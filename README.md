@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate  **with individuals who have expertise in machine learning algorithms, data visualization and statistical analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.datacamp.com/portfolio/LUISOKECH](https://www.datacamp.com/portfolio/LUISOKECH)
+- 👨‍💻 All of my projects are available at **https://github.com/luisokech?tab=repositories**
 
 - 💬 Ask me about **python, R, SQL, Power Bi, Excel**
 
