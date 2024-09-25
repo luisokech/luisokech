@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
-<h1 align="center">Hi 👋, I'm Luis Okech</h1>
-<h3 align="center">--🔍📊 Data Scientist | Unveiling Insights, Empowering Decisions | Machine Learning Enthusiast | Python Guru 🐍🚀</h3>
+<h1 align="center">Hi , I'm Luis Okech</h1>
+<h3 align="center">-- Data Scientist | Unveiling Insights, Empowering Decisions | Machine Learning Enthusiast | Python Guru </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisokech&label=Profile%20views&color=0e75b6&style=flat" alt="luisokech" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/luisokech?tab=repositories**
 
-- 💬 Ask me about **python, R, SQL, Power Bi, Excel**
+- 💬 Ask me about **python, Power Bi, Excel**
 
 - 📫 How to reach me **luisokech@gmail.com**
 
