@@ -7,12 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisokech" alt="luisokech" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-<p align="left"> <a href="https://twitter.com/@luis_dedsec_" target="blank"><img src="https://img.shields.io/twitter/follow/@luis_dedsec_?logo=twitter&style=for-the-badge" alt="@luis_dedsec_" /></a> </p>
+<p align="left"> <a href="https://x.com/Luis_okech" target="blank"><img src="https://img.shields.io/twitter/follow/@Luis_okech?logo=twitter&style=for-the-badge" alt="@Luis_okech" /></a> </p>
 
 
 - 🔭 I’m currently working on **implementing a machine learning model for predictive analytics in my data science project e.g predicting customer churn, sentiment analysis and fraud detection**
 
-- 🌱 I’m currently learning **AI and machine learning**
+- 🌱 I’m currently on **AI and machine learning**
 
 - 👯 I’m looking to collaborate  **with individuals who have expertise in machine learning algorithms, data visualization and statistical analysis**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **luisokech@gmail.com**
 
-- ⚡ Fun fact **I code whole day😂😂**
+- ⚡ Fun fact **I code whole day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
