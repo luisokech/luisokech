@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate  **with individuals who have expertise in machine learning algorithms, data visualization and statistical analysis**
 
-- 👨‍💻 All of my projects are available at **https://github.com/luisokech?tab=repositories**
+- 👨‍💻 All of my projects are available:  [**https://github.com/luisokech?tab=repositories**](here)
 
 - 💬 Ask me about **python, Power Bi, Excel**
 
