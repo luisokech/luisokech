@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://x.com/Luis_okech" target="blank"><img src="https://img.shields.io/twitter/follow/@Luis_okech?logo=twitter&style=for-the-badge" alt="@Luis_okech" /></a> </p>
 
 
-- I’m currently on **AI and machine learning**
+- I’m currently on **AI and deep learning**
 
 - I’m looking to collaborate  **with individuals who have expertise in machine learning algorithms, data visualization and statistical analysis**
 
