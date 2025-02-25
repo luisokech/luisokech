@@ -2,8 +2,6 @@
 <h1 align="center">Hi , I'm Luis Okech</h1>
 <h3 align="center">-- Data Scientist | Unveiling Insights </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisokech&label=Profile%20views&color=0e75b6&style=flat" alt="luisokech" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisokech" alt="luisokech" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
