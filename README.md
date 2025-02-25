@@ -9,19 +9,15 @@
 <p align="left"> <a href="https://x.com/Luis_okech" target="blank"><img src="https://img.shields.io/twitter/follow/@Luis_okech?logo=twitter&style=for-the-badge" alt="@Luis_okech" /></a> </p>
 
 
-- 🔭 I’m currently working on **implementing a machine learning model for predictive analytics in my data science project e.g predicting customer churn, sentiment analysis and fraud detection**
+- I’m currently on **AI and machine learning**
 
-- 🌱 I’m currently on **AI and machine learning**
+- I’m looking to collaborate  **with individuals who have expertise in machine learning algorithms, data visualization and statistical analysis**
 
-- 👯 I’m looking to collaborate  **with individuals who have expertise in machine learning algorithms, data visualization and statistical analysis**
+- All of my projects are available: [**here**](https://github.com/luisokech?tab=repositories)
 
-- 👨‍💻 All of my projects are available: [**here**](https://github.com/luisokech?tab=repositories)
+- Ask me about **python, Power Bi, Excel**
 
-- 💬 Ask me about **python, Power Bi, Excel**
-
-- 📫 How to reach me **luisokech@gmail.com**
-
-- ⚡ Fun fact **I code whole day**
+- How to reach me **luisokech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
