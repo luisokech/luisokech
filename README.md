@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Luis Okech</h1>
-<h3 align="center">-- Data Scientist | Unveiling Insights </h3>
+<h3 align="center"> Data Scientist | Unveiling Insights </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisokech&label=Profile%20views&color=0e75b6&style=flat" alt="luisokech" /> </p>
 
